@@ -30,13 +30,13 @@ I specialize in the full lifecycle of data products; from rigorous cleaning and 
 
 ### My Philosophy
 
-I treat models as **components within analytical workflows**, emphasizing:
-Data -> Validation -> Feature Engineering -> Model -> Interpretation -> Business Logic
+I treat models as **components within analytical workflows**, emphasizing:<br>
+#### Data -> Validation -> Feature Engineering -> Model -> Interpretation -> Business Logic
 
 Focus is not only on predictive accuracy, but also **robustness and actionable insights**.
 
 
 ###  Connect with Me
 
-* **[On Linkedin](www.linkedin.com/in/nimota-ibrahim)**
-* **[Via Email](mailto:nimotaibrahim@gmail.com)**
+* **[On LinkedIn](https://www.linkedin.com/in/nimota-ibrahim)**
+* **Via Email: nimotaibrahim@gmail.com**
