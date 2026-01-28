@@ -1,8 +1,19 @@
-# Nimota Ibrahim | Data Science & Analytics
+# Nimota Ibrahim 
+### Data Lead | Analytics & Governance Specialist
 
-**Building reliable analytical pipelines that translate complex data into decision-support signals.**
+I design and implement robust data pipelines that transform complex datasets into actionable insights for decision-making.
 
-I specialize in the full lifecycle of data products; from rigorous cleaning and statistical validation to designing the business logic that turns model outputs into actionable insights.
+I work across the **full data lifecycle**, including:
+
+* Data collection and cleaning
+
+* Statistical validation and exploratory analysis
+
+* Feature engineering and model development
+
+* Translating model outputs into business-relevant decisions
+
+My projects combine **predictive modelling, interpretable analytics, and practical deployment**, demonstrating how data can support real-world decision-making and strategy.
 
 
 ### Technical Stack
