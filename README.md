@@ -8,7 +8,7 @@
 
 
 # Nimota Ibrahim 
-### Data Lead | Analytics & Governance Specialist
+### Data Lead | Analytics & Governance Projects
 
 I design and implement robust data pipelines that transform complex datasets into actionable insights for decision-making.
 
