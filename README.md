@@ -1,3 +1,12 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-black?style=for-the-badge&logo=xgboost&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+
+
 # Nimota Ibrahim 
 ### Data Lead | Analytics & Governance Specialist
 
@@ -26,7 +35,7 @@ My projects combine **predictive modelling, interpretable analytics, and practic
 
 ### Featured Project: 
 
-#### [House Price Intelligence Pipeline](https://github.com/NimotaPro/House-Price-Intelligence-Pipeline/blob/main/README.md)
+#### [House Price Intelligence Pipeline](https://github.com/Nimota-Ibrahim/House-Price-Prediction-Feature-Engineering/blob/main/README.md)
 
 
 **Objective:** Build a regression-based valuation engine with an integrated "Sanity-Check" layer for pricing audits.
